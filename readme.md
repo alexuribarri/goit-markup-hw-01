@@ -7,3 +7,6 @@ Git: https://github.com/alexuribarri/goit-markup-hw-01.git
 IDE:https://codesandbox.io/s
 
 Design: https://www.figma.com/file/VQ02IIL57fc33U4GP1WEdf/Web-Studio-(Version-2.0)?node-id=1572%3A0
+
+GitHub page: https://alexuribarri.github.io/goit-markup-hw-01/
+
